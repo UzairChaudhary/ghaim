@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+joblib
+pyaudio
+scikit-learn
+pandas
+matplotlib
