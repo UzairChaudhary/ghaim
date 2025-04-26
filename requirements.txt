@@ -5,3 +5,6 @@ pyaudio
 scikit-learn
 pandas
 matplotlib
+fastapi
+uvicorn
+seaborn
