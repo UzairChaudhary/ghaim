@@ -27,7 +27,7 @@ The Ghaim UAE Weather API provides a web interface to the "Ghaim" weather predic
 1. Clone the repository:
 ```bash
 git clone https://github.com/UzairChaudhary/ghaim.git
-cd ghaim-weather-api
+cd ghaim
 ```
 
 2. Install the required packages:
