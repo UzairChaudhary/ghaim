@@ -29,10 +29,15 @@ The Ghaim UAE Weather API provides a web interface to the "Ghaim" weather predic
 git clone https://github.com/UzairChaudhary/ghaim.git
 cd ghaim
 ```
-
-2. Install the required packages:
+2. Create and activate python virtual environment
 ```bash
-pip install fastapi uvicorn pydantic
+python -m venv venv
+venv\Scripts\activate
+```
+
+3. Install the required packages from requirements.txt:
+```bash
+pip install -r requirements.txt
 ```
 
 
